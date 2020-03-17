@@ -17,8 +17,7 @@ function fibonacci(number) {
 }
 
 function inputNumberToCheck() {
-    inputNumber = parseInt(prompt(
-        "Enter a number to check: "));
+    inputNumber = parseInt(prompt("Enter a number to check: "));
     return inputNumber;
 }
 
